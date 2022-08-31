@@ -1,0 +1,6 @@
+# Basic tech infrastructure
+
+The base technical infrastructure consists in:&#x20;
+
+* The node (can be software and/or hardware) is the Execution Engine environment that enables quick development of AI-enabled applications in areas where app deployment is suitable in decentralized scenarios and/or requiring distributed allocation of compute resources. This main component allows a low-entry barrier for even the smallest team to quickly iterate throughout the software development lifecycle. This enables each type of content creator network participant to focus on their main expertise areas - ie non-AI experts can quickly develop and deploy highly decentralized and distributed AI apps, AI experts can focus on models without caring for complex dev-ops aspects, content creators can focus on simple business logic aspects without in-depth knowledge or expertise in AI, IoT, distributed systems or dev-ops.
+* The private blockchain (the internal blockchain): in order to ensure a immutable messaging and event system even for the most demanding banking systems or special security systems we use a internal blockchain layer that records high-level digest information from multiple sources including but not limited to configurations, node capabilities, important app-level telemetry, a.s.o.&#x20;

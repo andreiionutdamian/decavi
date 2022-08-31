@@ -1,0 +1,12 @@
+---
+description: A quick overview of the reasoning behind our ecosystem
+---
+
+# The reasoning&#x20;
+
+Currently a tremendous compute capacity resides untapped at global level in every domestic computer, in every proof-of-work mining rig that uses carbon-power to mindlessly generate simple numbers and many other powerful personal computer devices.
+
+At the same time edge computing is becoming increasingly popular for various applications both for domestic usage as well as for purely business purposes. The rapid evolution of Artificial Intelligence and Deep Learning in particular in past years enabled a wide variety of new applications and various start-ups as well as big players are offering smart devices with services and features such as computer-vision automatic surveillance for commercial objectives or domestic smart-camera child supervision. Previous centralized Cloud-based systems where the consumers have to connect and upload their confidential data are migrating more and more towards edge architectures with smart processing capabilities augmented by latest deep learning techniques. Even more, current market personal computer devices ranging from desktop computers up to ultra-mobile notebooks and smart phones already have advanced graphical processing units capable of numerical computation and thus capable of running Artificial Intelligence algorithms. Another important aspect related to the migration of processing from large Cloud infrastructures to smart edge devices, beside communication and data confidentiality issues is the energy efficiency of low power devices and overall low carbon footprint as opposed to complex centralized Cloud infrastructures.
+
+Our proposal aims to create a low entry barrier utility blockchain ecosystem that will enable a wide range of applications - particularly those that require AI-related features such as deep learning model inference and prediction and beyond - to be quickly deployed and served and easily coupled with an already in-place token economy infrastructure. Our vision is to enable even smart domestic appliances that run our node software to serve the spare processing power back to the network and thus generate value for their owners while allowing software developers to dramatically reduce product development and deployment lifecycle and costs while using an already functioning token-based economic ecosystem.&#x20;
+
