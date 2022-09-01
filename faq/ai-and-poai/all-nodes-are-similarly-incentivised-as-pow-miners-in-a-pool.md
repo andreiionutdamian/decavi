@@ -1,0 +1,3 @@
+# All nodes are similarly incentivised as PoW miners in a pool?
+
+Our ecosystem is based on actual end-to-end jobs performed by AI-augmented agents within the PoAI approach. As a result there will be dramatically different rewarding mechanisms for boxes that are constantly working and producing either direct results for the user or remotely accepting and processing deep learning computation. Similarly with the classic pool of miners where each miner is rewarded at the pool-reward level or with the groups of delegators staking for a validation node where each delegator is rewarded based on the staked amount, we will distribute the rewards to all participant nodes in a clear and balanced way.
