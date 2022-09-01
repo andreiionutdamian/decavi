@@ -1,0 +1,3 @@
+# What is PoAI in a nutshell?
+
+The main functionality of the PoAI is to offload distributable AI jobs to the available box-nodes using blockchain technology. This includes the whole process of loading a neural model in a node, receiving a data-shard, generating predictions or inferences and even training a model in a federated ecosystem. Imagine each box-node as a solar power panel that generates electricity to the grid and the grid rewards the owner with cash. In our case the electricity is the AI-power supplied by the box node - AI the “new electricity”. Using highly flexible distributed deep federated learning we are able to offload a wide range of use cases and jobs both in private but more importantly in public fleet environments.
