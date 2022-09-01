@@ -3,6 +3,7 @@
 * [Abstract](README.md)
 * [The reasoning ](reasoning.md)
 * [Utility and use-cases](utility/README.md)
+  * [PoAI, PoU, PoA, PoO](utility/poai-pou-poa-poo.md)
   * [Benefits of Web3](utility/benefits-of-web3.md)
   * [Advanced end-to-end Execution Engine](utility/advanced-end-to-end-execution-engine.md)
   * [Environment focus](utility/environment-focus.md)
