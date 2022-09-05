@@ -44,6 +44,7 @@
     * [What are the two categories of non fungible tokens?](faq/node-deeds-nft/what-are-the-two-categories-of-non-fungible-tokens.md)
   * [Token](faq/token.md)
     * [What is the use/value of the utility token?](faq/token/what-is-the-use-value-of-the-utility-token.md)
+    * [How a non crypto savvy customer is going to be incentivised?](faq/token/how-a-non-crypto-savvy-customer-is-going-to-be-incentivised.md)
   * [DAO](faq/dao.md)
   * [Warranty & QoS](faq/warranty-and-qos.md)
   * [Security](faq/security.md)

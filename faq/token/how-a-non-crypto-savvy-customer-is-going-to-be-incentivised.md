@@ -1,0 +1,3 @@
+# How a non crypto savvy customer is going to be incentivised?
+
+One of the main reasons for the pairing of the utility token with the NFT is the actual simplicity of the system. The methodologies, approaches and the usage is simple and straightforward. Nevertheless, according to independent market research companies total global ownership and savviness in cryptocurrencies is currently over 4% of global population. Below some demographics based on 2021 stats: Top Countries India (100 million) USA (27 million) Nigeria (13 million) Vietnam (5.9 million) United Kingdom (3.3 million) Owners Demographics 79% male, 21% female 58% are aged under 34 82% have a Bachelor’s degree or higher 36% have an annual income over US$100k.
