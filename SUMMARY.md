@@ -33,7 +33,7 @@
     * [Will there be a limit of all nodes?](faq/ai-and-poai/will-there-be-a-limit-of-all-nodes.md)
     * [What if there are more boxes than jobs and how balancing and consensus is performed?](faq/ai-and-poai/what-if-there-are-more-boxes-than-jobs-and-how-balancing-and-consensus-is-performed.md)
     * [How can a miner easily migrate from PoW (various tokens) to PoAI?](faq/ai-and-poai/how-can-a-miner-easily-migrate-from-pow-various-tokens-to-poai.md)
-  * [Node Deeds (NFT)](faq/node-deeds-nft/README.md)
+  * [Node Deeds (NFT)](faq/node-deeds-nft.md)
     * [What are the on-chain NFT incentives?](faq/node-deeds-nft/what-are-the-on-chain-nft-incentives.md)
     * [Why both coin and NFT?](faq/node-deeds-nft/why-both-coin-and-nft.md)
     * [Can security NFT be traded without an already working/existing box(es)?](faq/node-deeds-nft/can-security-nft-be-traded-without-an-already-working-existing-box-es.md)
