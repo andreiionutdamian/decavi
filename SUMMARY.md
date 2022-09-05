@@ -65,3 +65,7 @@
     * [How about known environmental issues usually associated with blockchain?](faq/care-for-environment/how-about-known-environmental-issues-usually-associated-with-blockchain.md)
   * [UI](faq/ui/README.md)
     * [How can I control what jobs and what is going on in my fleet of boxes?](faq/ui/how-can-i-control-what-jobs-and-what-is-going-on-in-my-fleet-of-boxes.md)
+  * [Learning](faq/learning/README.md)
+    * [Learning, societal, charity & academic support & responsibility](faq/learning/learning-societal-charity-and-academic-support-and-responsibility.md)
+    * [Will there be casual workshops and learn-to-earn campaigns?](faq/learning/will-there-be-casual-workshops-and-learn-to-earn-campaigns.md)
+    * [Certification: Will there be advanced courses and certifications?](faq/learning/certification-will-there-be-advanced-courses-and-certifications.md)
