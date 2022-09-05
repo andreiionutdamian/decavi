@@ -1,0 +1,3 @@
+# More about decentralized governance?
+
+New projects, services or providers will be chosen, validated and guaranteed using the CAVI governance token staking. New network/community participants will be able to invest in tokens and stake their tokens in order to prove their commitment towards servicing existing end-users organizations or individuals within the system. Ecosystem modifications and updates will be possible based on the fact that the whole system will be open-source and any able, good willing participant can stake and propose their own modifications. Any kind of new endeavors that can be technologically implemented in the ecosystem will be possible such as “non-core” projects and services.
