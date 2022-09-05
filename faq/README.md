@@ -4,17 +4,13 @@
 
 
 
-1.9.23. Client/UI: How can I control what jobs and what is going on in my fleet of boxes?
-
-While the distribution and execution of the jobs and the resulting PoAI is based on the underlying blockchain the actual control and supervision can be done in a centralized-like manner via the CAVI interface. The CAVI suite of apps allow both the configuration, direct and indirect management of each and all boxes while acting as nodes in the blockchain and review-ing the statuses of the jobs as well as generated rewards.
 
 
 
 
 
-1.9.26. Warranty/QoS: How about QoS and warranties when the Project will be fully decentralized?
 
-As with other decentralized autonomous or semi-autonomous organizations and projects, the Project will require that all active participants in the network (except passive nodes) stake their participation according to the provided services. Staking means basically putting financial collateral when trying to provide services in the network. Using the previous example with the three different types of active participants in the network - the small analytics use-case provider, the data provider and the enterprise solution provider - each individual participant to the network will have to stake some of their own existing tokens in order to be able to apply for a job. In the unfortunate case of bad performance as well as in the more unfortunate event of bad behavior the staked funds will be permanently taken from the participant and other measures - such as temporary ban or permanent ban - could be issued. This approach will ensure that all participants take a portion of the risk - directly proportional to the use-case and job they are doing - and the end-beneficiaries are covered by some kind of insurance/warranty for the services they are receiving.
+
 
 1.9.27. Aside from staking collateral, are there other methods of QA?
 
