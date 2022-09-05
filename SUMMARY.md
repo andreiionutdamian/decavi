@@ -40,7 +40,7 @@
     * [What is the difference between node jobs and behaviors?](faq/ai-and-poai/what-is-the-difference-between-node-jobs-and-behaviors.md)
     * [How does the system work in terms of Federated Learning?](faq/ai-and-poai/how-does-the-system-work-in-terms-of-federated-learning.md)
     * [Smart Cities: how about them?](faq/ai-and-poai/smart-cities-how-about-them.md)
-    * [? Network: How do you deal with low network bandwidths?](faq/ai-and-poai/network-how-do-you-deal-with-low-network-bandwidths.md)
+    * [Network: How do you deal with low network bandwidths?](faq/ai-and-poai/network-how-do-you-deal-with-low-network-bandwidths.md)
   * [Node Deeds (NFT)](faq/node-deeds-nft.md)
     * [What are the on-chain NFT incentives?](faq/node-deeds-nft/what-are-the-on-chain-nft-incentives.md)
     * [Why both coin and NFT?](faq/node-deeds-nft/why-both-coin-and-nft.md)
