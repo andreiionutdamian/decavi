@@ -2,15 +2,11 @@
 
 
 
-1.9.9. PoAI: Will there be a limit of all nodes?
 
-PoAI Worker Zones will be defined with specific incentivisation methods based on location and geographical area jobs in order to minimize upload/download time based on MAN and WAN bandwidth. Beside the communication aspects handled by geographical zoning it is important to safely control compute power inflation within the ecosystem. For this matter we will be planning on restricting the total number of regional installable box-nodes for compute power. Nevertheless, if an end-user requires a box-node that is not used as a compute-power provider a different license will be used. Besides limiting the zone size the node licenses for computer-only nodes will gradually increase in order to offer a economically sustainable environment - eg. node licenses bought later on will be more expensive but this will be sustained by the increase of network load.
 
-1.9.10. PoAI: What if there are more boxes than jobs and how balancing and consensus is performed?
 
-The network does not rely on luck on arbitrary choosing of the rewarded box. All the nodes are awarded proportionally to the overall distribution of the remote jobs and overall AI job execution and the only aspect that makes a difference between a box from another is the compute capability - dependent of what features and hardware was purchases - and the reliability of that box - how long and how reliable the box has been running. The parachain PoAI internal consensus mechanism takes into account the following aspects when distributing job-shards (based on data-shards): Validator-like nodes will act as communication proxies for their near-nodes and will communicate with each other in order to maintain the map (directed graph map) Geolocation of the node in relation with other boxes correlates with the bandwidth. We define the concept of Near-nodes as the nodes adjacent with a given node based on bandwidth. Observation: geolocation closeness is correlated with good bandwidth but does not directly imply good bandwidth between two nodes The compute capability of the “near-nodes” Periodic checks with the zone main node (validator like node) can lead to migration
 
-1.9.11. PoAI: How can a miner easily migrate from PoW (various tokens) to PoAI? Currently our box-node software supports CUDA-based tensorial operations and uses the top two well known Deep Learning frameworks - Tensorflow and Pytorch - besides other CPU-based shallow Machine Learning technologies such as Scikit Learn and XGBoost. In the first stage of the Project we will streamline the migration process for the miners that are using Nvidia GPUs and also support CPU-only box-nodes for non-deep learning jobs. The system already supports multi-GPU on the same box-node. We will then continue to invest in the box-node deep learning tensorial framework backend capabilities and compatibility in order to be able to support non-CUDA devices. An important observation is that a box node is able to deliver compute power and process almost any kind of jobs on CPU even though for most operations is suboptimal compared with CUDA.
+
 
 1.9.12. NFT: What are the on-chain NFT incentives?
 
