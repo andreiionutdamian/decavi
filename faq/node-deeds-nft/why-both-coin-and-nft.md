@@ -1,0 +1,3 @@
+# Why both coin and NFT?
+
+The utility token (coin) as well as the NFT coexist in the same ecosystem. While the coin is a fungible utility token the NFT are individually and uniquely identifiable (and can be traded as box license). There are two main characteristics of the NFT: (A) uniquely identify a range of boxes and allow all the rewards for those boxes to be distributed to the current owner of the NFT; (B) possess unique art and capability to be transferred on-chain from one-wallet to another or to be sold on certain exchanges. In short each PoAI job will yield a certain amount of utility tokens that will mainly be delivered to the current owner of the NFT associated with the individual box.
