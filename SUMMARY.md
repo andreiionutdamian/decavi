@@ -74,3 +74,5 @@
     * [Certification: Will there be advanced courses and certifications?](faq/learning/certification-will-there-be-advanced-courses-and-certifications.md)
   * [Investment](faq/investment/README.md)
     * [What are the financial investment options?](faq/investment/what-are-the-financial-investment-options.md)
+  * [Team](faq/team/README.md)
+    * [Who are the founders?](faq/team/who-are-the-founders.md)

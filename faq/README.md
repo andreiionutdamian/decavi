@@ -1,12 +1,2 @@
 # FAQ
 
-
-
-1.9.39. Investment: What are the financial investment options?
-
-Together with the launching of the security smart contract NFTs and the utility token ICO, stacking and liquidity pool mechanisms will be offered for potentially interested investors. These classic electronic coin financial investment approaches will further promote and fuel the usage of the utility token. More information will be provided. While the main rewards generation system will be based on the PoAI consensus the CAVI token will run on ERC20/BEP20/… network based on PoS mechanics and thus allowing staking, liquidity pools and other digital DeFi options.
-
-1.9.40. Founders: Who are the founders?
-
-The founder information can be found [here](../team.md)
-
