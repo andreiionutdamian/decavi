@@ -14,6 +14,8 @@
     * [A new network publisher](utility/end-to-end-use-cases/a-new-network-publisher/README.md)
       * [The business ideea](utility/end-to-end-use-cases/a-new-network-publisher/the-business-ideea.md)
       * [The challange](utility/end-to-end-use-cases/a-new-network-publisher/the-challange.md)
+      * [The Solution](utility/end-to-end-use-cases/a-new-network-publisher/the-solution.md)
+      * [New partnerships](utility/end-to-end-use-cases/a-new-network-publisher/new-partnerships.md)
 * [Architecture](architecture/README.md)
   * [Basic tech infrastructure](architecture/basic-tech-infrastructure.md)
   * [Why Web3?](architecture/why-web3.md)
