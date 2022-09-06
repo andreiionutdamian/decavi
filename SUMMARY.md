@@ -57,7 +57,7 @@
     * [How will the decentralized network and projects evolve?](faq/dao/how-will-the-decentralized-network-and-projects-evolve.md)
     * [What is the partner network?](faq/dao/what-is-the-partner-network.md)
     * [More about decentralized governance?](faq/dao/more-about-decentralized-governance.md)
-    * [How about non-core projects that can be implemented by network participants?](faq/dao/how-about-non-core-projects-that-can-be-implemented-by-network-participants.md)
+    * [Non-core projects](faq/dao/non-core-projects.md)
   * [Warranty & QoS](faq/warranty-and-qos.md)
     * [How about QoS and warranties when the Project will be fully decentralized?](faq/warranty-and-qos/how-about-qos-and-warranties-when-the-project-will-be-fully-decentralized.md)
   * [Security](faq/security.md)
