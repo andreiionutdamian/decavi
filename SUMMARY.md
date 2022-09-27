@@ -18,6 +18,7 @@
       * [The Expansion](utility/end-to-end-use-cases/a-new-network-publisher/the-expansion.md)
 * [Architecture](architecture/README.md)
   * [Basic tech infrastructure](architecture/basic-tech-infrastructure.md)
+  * [The plugin system](architecture/the-plugin-system.md)
   * [Why Web3?](architecture/why-web3.md)
 * [Tokenomics](tokenomics.md)
 * [Roadmap](roadmap.md)
